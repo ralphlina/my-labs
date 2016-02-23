@@ -1,0 +1,7 @@
+Script started on Mon Feb 22 19:51:52 2016
+[?1034hbash-3.2$ quit
+bash: quit: command not found
+bash-3.2$ nd[K[Kexit
+exit
+
+Script done on Mon Feb 22 19:51:55 2016
